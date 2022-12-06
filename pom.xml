@@ -125,7 +125,7 @@
         <dependency>
             <groupId>commons-net</groupId>
             <artifactId>commons-net</artifactId>
-            <version>3.3</version>
+            <version>3.9.0</version>
         </dependency>
 
         <!--自定义属性配置的key在自己配置中能都spring被扫描提示到-->
